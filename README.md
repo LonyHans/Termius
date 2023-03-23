@@ -4,6 +4,8 @@
 
   使用版本7.33.1
   
+  下载链接：https://pan.baidu.com/s/1aK9FVB_bJ-C1vpVTqmLsJQ?pwd=8aq9 提取码：8aq9
+  
   下载链接：https://anonfiles.com/Ldbevbg2z3/Termius_zip
 
 - 依赖下载
