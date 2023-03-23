@@ -3,6 +3,8 @@
 - 安装`termius`
 
   使用版本7.33.1
+  
+  下载链接：https://anonfiles.com/Ldbevbg2z3/Termius_zip
 
 - 依赖下载
 
